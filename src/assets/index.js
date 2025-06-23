@@ -31,7 +31,7 @@ import proximus from "./company/proximus.png";
 
 import aptihealthWeb from "./projects/aptihealthWeb.png";
 import aptihealthApp from "./projects/aptihealthApp.png";
-import zealWeb from "./projects/zealWeb.png";
+import zealWeb from "./projects/zealweb.png";
 import zealApp from "./projects/zealApp.png";
 import rollWeb from "./projects/rollWeb.png";
 import rollApp from "./projects/rollApp.png";
